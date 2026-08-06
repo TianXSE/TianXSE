@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=600&lines=Hello+World!;Welcome+to+my+GitHub!">
 
-Hi! I'm [Sebasthian Nathanael](linkedin.com/in/sebasthian-nathanael-9b5557365/) 
+Hi! I'm [Sebasthian Nathanael](linkedin.com/in/sebasthian-nathanael-9b5557365) 
 
 ---> I'm a self-taught Python enthusiast.
 
