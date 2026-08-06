@@ -11,7 +11,7 @@ I learn programming primarily through building projects, My projects generally f
   - 🏗️mock industrial project
 
 Working on larger projects helps me understand concepts more deeply and learn how to apply syntax to solve real problems.
-### ⚙️ Specialty
+## ⚙️ Specialty
   - **🐍 Python** (Primary language)
 ## 📫 Contact
   - 📱Phone    : +62 821 4145 6588
