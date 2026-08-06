@@ -12,9 +12,9 @@ My ability to learn programming language is mostly relying on projects, mainly s
 
 Doing heavy-weight projects teaches me to wrap my idea around concept and utilizing syntax
 
-Reach me out on:
-  - Phone    : +62 821 4145 6588
-  - Email    : sebasthiannathanael081@gmail.com
+## 📫 Contact
+  - 📱Phone    : +62 821 4145 6588
+  - 📧Email    : sebasthiannathanael081@gmail.com
 <!--
 **TianXSE/TianXSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
