@@ -15,7 +15,7 @@ Working on larger projects helps me understand concepts more deeply and learn ho
   - **🐍 Python** (Primary language)
 ## 📫 Contact
   - 📱Phone    : +62 821 4145 6588
-  - 📧Email    : sebasthiannathanael081@gmail.com
+  - 📧Email     : sebasthiannathanael081@gmail.com
 <!--
 **TianXSE/TianXSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
