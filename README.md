@@ -1,16 +1,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=600&lines=Hello+World!;Welcome+to+my+GitHub!">
 
-**Author:** [Sebasthian Nathanael](https://www.linkedin.com/in/your-profile/) 
+Hi! I'm [Sebasthian Nathanael](https://www.linkedin.com/in/your-profile/) 
 
----> I'm a self learning python enthusiast!
+---> I'm a self-taught Python enthusiast.
 
----> I'm going to pursue my Bachelor at AUS soon.
+---> Incoming bachelor's student at AUS.
 
-My ability to learn programming language is mostly relying on projects, mainly split into:
-  - learning projects
-  - mock industrial project
+I learn programming primarily through building projects, My projects generally fall into two categories::
+  - 📧learning projects
+  - 🏗️mock industrial project
 
-Doing heavy-weight projects teaches me to wrap my idea around concept and utilizing syntax
+Working on larger projects helps me understand concepts more deeply and learn how to apply syntax to solve real problems.
 
 ## 📫 Contact
   - 📱Phone    : +62 821 4145 6588
