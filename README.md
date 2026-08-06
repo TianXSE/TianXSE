@@ -6,7 +6,7 @@ Hi! I'm [Sebasthian Nathanael](https://www.linkedin.com/in/sebasthian-nathanael-
 
 ---> Incoming bachelor's student at AUS.
 
-I learn programming primarily through building projects, My projects generally fall into two categories::
+I learn programming primarily through building projects, My projects generally fall into two categories:
   - 📧learning projects
   - 🏗️mock industrial project
 
