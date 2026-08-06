@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=600&lines=Hello+World!;Welcome+to+my+GitHub!">
 
 <!--
 **TianXSE/TianXSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
