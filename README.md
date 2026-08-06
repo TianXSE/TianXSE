@@ -1,10 +1,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=600&lines=Hello+World!;Welcome+to+my+GitHub!">
 
-**Author:** [Sebasthian Nathanael](https://www.linkedin.com/in/your-profile/)
+**Author:** [Sebasthian Nathanael](https://www.linkedin.com/in/your-profile/) 
+
 ---> I'm a self learning python enthusiast!
+
 ---> I'm going to pursue my Bachelor at AUS soon.
 
-print(**My ability to learn programming language is mostly relying on projects**)
+My ability to learn programming language is mostly relying on projects
 <!--
 **TianXSE/TianXSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
